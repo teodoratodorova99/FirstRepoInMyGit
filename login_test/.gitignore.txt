@@ -1,1 +1,1 @@
-./FolderToBeIgnored
+/FolderToBeIgnored
